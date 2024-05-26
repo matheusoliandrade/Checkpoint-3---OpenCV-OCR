@@ -1,2 +1,4 @@
 # Checkpoint-3---OpenCV-OCR
-# Checkpoint-3---OpenCV-OCR
+
+Integrantes:
+Matheus Oliveira de Andrade
